@@ -1,4 +1,5 @@
 [build]
+baseURL = "www.vedereanalytics.com"
 command = "hugo"
 publish = "public"
 [build.environment]

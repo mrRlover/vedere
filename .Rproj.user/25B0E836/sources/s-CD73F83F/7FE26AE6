@@ -3,19 +3,22 @@
     "path": "~/Programming/R/Markdown/websites/Vedere/netlify.toml",
     "project_path": "netlify.toml",
     "type": "toml",
-    "hash": "1778057373",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1615231655405.0,
     "source_on_save": false,
     "relative_order": 5,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "15,0",
+        "scrollLine": "0"
+    },
     "folds": "",
-    "lastKnownWriteTime": 1615120431,
+    "lastKnownWriteTime": 1615233732,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1615120431,
+    "last_content_update": 1615233732412,
     "read_only": false,
     "read_only_alternatives": []
 }
