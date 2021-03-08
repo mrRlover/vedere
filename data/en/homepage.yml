@@ -1,0 +1,111 @@
+####################### Banner #########################
+banner:
+  title : "Let us visualise your data <br>"
+  image : images/waterfall.png
+  content : "We take your data and make graphs that show you key insights into your business <br> "
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact"
+
+##################### Feature ##########################
+feature:
+  enable : true
+  title : "Services"
+  id : "services"
+  feature_item:
+    # feature item loop
+    - name : "Data Visualisation"
+      icon : "ti-bar-chart"
+      content : "High quality graphs that show key insights into your business"
+      
+    # feature item loop
+    - name : "R Consulting"
+      icon : "ti-layout-slider"
+      content : "We offer consulting services on R programming"
+      
+    # feature item loop
+    - name : "PDF Reporting"
+      icon : "ti-notepad"
+      content : "We create publication ready reports for business"
+      
+    # feature item loop
+    - name : "Shiny Dashboards"
+      icon : "ti-panel"
+      content : "View your data in real time with Shiny Dashboards"
+      
+    # feature item loop
+    - name : "Financial Research"
+      icon : "ti-stats-up"
+      content : "Reseach the performance of a strategy"
+      
+    # feature item loop
+    - name : "Data Analysis"
+      icon : "ti-cloud-up"
+      content : "Clean and filter your data to make to reveal trends and insights"
+      
+
+######################### Service #####################
+service:
+  enable : true
+  service_item:
+    # service item loop
+    - title : "Get publication quality graphs"
+      images:
+      - images/impairments_1.png
+      - images/impaired.png
+      - images/waterfall_1.png
+      content : "Whether you are making an inhouse powerpoint presentation or publishing a report it doesn't matter. We have the capabilities to create high quality graphs that will not just wow your audience but also make it easier for them to grasp the underlying data"
+      button:
+        enable : true
+        label : "Check it out"
+        link : "contact"
+        
+    # service item loop
+    - title : "Data is simple"
+      images:
+      - images/scatter.png
+      content : "We believe data is simple. In the current environment, there is so much data to present that it can be easy to get lost in it all. We make that process simpler by taking your data, find the most useful insights and present it in an eaasy to understand manner."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "contact"
+        
+    # service item loop
+    - title : "How it works"
+      images:
+      - images/revenue_profit_1.png
+      content : "If all you have is data, we will start from scratch by first cleaning and filtering the data. Then we will look for trends that are important for you to see. Then we will present the analysis in a beautiful graph."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "contact"
+        
+    # service item loop
+    - title : "Already have a graph?"
+      images:
+      - images/usdzmw.png
+      content : "If you already have a graph we can offer consulting services on how to improve on it. We can also edit your current graphs to make them beautiful. If you have raw data and an idea of how you want your data presented, we can work to bring your idea to life."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "contact"
+        
+################### Screenshot ########################
+screenshot:
+  enable : true
+  title : "Get high level analysis <br> with us"
+  image : images/donuts.png
+
+  
+
+##################### Call to action #####################
+call_to_action:
+  enable : true
+  title : "Ready to get started?"
+  image : images/alsi_underwaterchart.png
+  content : "Get in touch with us to get started on data Visualisations."
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact"
