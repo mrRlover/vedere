@@ -1,5 +1,5 @@
 baseURL: "https://mrrlover.github.io/vedere"
-publishDir: docs
+#publishDir: docs
 title: Vedere Analytics
 theme: bigspring-hugo-startup-theme
 paginate: '3'
